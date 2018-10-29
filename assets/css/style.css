@@ -2515,3 +2515,22 @@ Multi-columns-row
 	text-align: center;
 	font-size: 14px;
 }
+
+/* -------------------------------------------------------------------
+Row-striped
+------------------------------------------------------------------- */
+.row-striped:nth-of-type(odd){
+	background-color: #f7f7f7;
+	border-left: 4px #111 solid;
+}
+
+.row-striped:nth-of-type(even){
+background-color: #ffffff;
+border-left: 4px #efefef solid;
+}
+
+.row-striped {
+	padding: 15px 0;
+}
+
+
