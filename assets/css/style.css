@@ -943,6 +943,10 @@ Shope item
 .shop-item-image {
 	position: relative;
 	overflow: hidden;
+	height: 487px;
+	width: 393px;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .shop-item-image img {
