@@ -945,8 +945,6 @@ Shope item
 	overflow: hidden;
 	height: 487px;
 	width: 393px;
-	display: table-cell;
-	vertical-align: middle;
 }
 
 .shop-item-image img {
